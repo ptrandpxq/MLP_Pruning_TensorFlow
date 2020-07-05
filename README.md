@@ -1,7 +1,16 @@
 # Simple_MNIST_Pruning_TensorFlow
 
-This is a repository of network pruning. very simple~
+This is a repository for network pruning. very simple~
 
-#How to Use
+For those who want to learn how to make a very simple neural network and how to prune the parameters of the model.
+
+# Enviorment
+TensorFlow 1.15
+Matplotlib
+
+# How to Use
 
 Use jupyter notebook.
+
+# Some tips
+All things will doing automaticlly. Enjoy it!
