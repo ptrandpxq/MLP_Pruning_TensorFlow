@@ -4,6 +4,11 @@ This is a repository for network pruning. very simple~
 
 For those who want to learn how to make a simple neural network and how to prune the parameters of the model using TensorFlow.
 
+The code includes
+  1. The implementation of a simple multi-layer perceptron (MLP)
+  2. The implementation of pruning functions
+  3. Fine-tuning the pruned model
+
 ## Enviorment
 TensorFlow 1.15
 
